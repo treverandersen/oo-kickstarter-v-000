@@ -12,6 +12,4 @@ class Backer
     title.backers << self
   end
 
-
-
 end
